@@ -1,0 +1,36 @@
+# Node.js
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Optional npm cache directory
+.npm
+
+# React Native
+
+# Build output
+android/app/build/
+android/.gradle/
+
+# CocoaPods
+ios/Pods/
+
+# IDE files
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.js.map
